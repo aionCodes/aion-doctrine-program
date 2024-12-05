@@ -2,8 +2,6 @@
 
 This document explains the testing process and purpose of each test for the Aion program.
 
-[English Version](test-guide.en.md)
-
 ### Test Execution Format
 All tests should be run in the following format:
 ```bash
