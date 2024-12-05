@@ -1,0 +1,23 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+# Keypair files
+**/*keypair.json
+.vscode
+docker-target
+# # # Test files
+# message-cids.json
+# tests/add_messages_from_json.ts
+# get-private-key.js
+
+*.json
+
+.env
+
+Anchor_backup_devnet.toml
+Anchor_backup_mainnet.toml
+README_backup.md
